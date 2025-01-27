@@ -17,7 +17,7 @@ export default function Projects() {
       description: 'My personal portfolio  (This website)',
       image: 'https://img.freepik.com/premium-vector/contemporar…ern-with-abstract-line-nude-colors_134878-381.jpg',
       tags: ['React + Vite', 'TailwindCSS', 'TypeScript', 'netlify'],
-      github: '#',
+      github: 'https://github.com/SumayyahHasan/portfolio',
       live: '#',
     },
   ];
